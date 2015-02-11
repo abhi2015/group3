@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body
 {
 	background-image: url(bckgrnd.jpg);
@@ -52,3 +53,54 @@ body
 	background: #FA9326;
 	border:1px solid #FA9326;
 }
+=======
+body{
+	background-image: url("backgr.png");
+	background-repeat: no-repeat;
+	background-size: 100%
+
+}
+
+.button6{
+	font-family: Helvetica;
+	font-weight: 500;
+	
+	color: #303030;
+	display: inline-block;
+	outline: none;
+	text-align: center;
+	text-decoration: none;
+	padding: .5em 2em .55em;
+	border-radius: 2em;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fcfcfc), to(#f9f9f9));
+	background: -moz-linear-gradient(top,  #fcfcfc,  #f9f9f9);
+	box-shadow: inset 0 -1px 0.5px rgba(0,0,0,0.5),inset 0 1px 1px rgba(255,255,255,0.8);
+}
+
+.button7{
+	font-family: Helvetica;
+	font-weight: 300;
+	color: #ffffff;
+	display: inline-block;
+	outline: none;
+	text-align: center;
+	text-decoration: none;
+	padding: .5em 2em .55em;
+	border-radius: 2em;
+	background: #3d3d3d;
+	opacity: 0.7;
+	margin-top: 10px;
+	box-shadow: inset 0 -1px 1px rgba(0,0,0,0.5),inset 0 0.5px 0.5px rgba(255,255,255,0.2);
+}
+
+.button9-text{
+	opacity: 1;
+}
+
+.buttongroup{
+	width:100%;
+	float:left;
+	margin-left: 600px;
+	margin-top: 400px;
+}
+>>>>>>> 00eb62fdef30113bbf40864bd3b6feab7beb5090
